@@ -1,2 +1,2 @@
 # Prvi projekt na Githubu
-Opis našeg projekta
+Opis našeg projekta...feature grana
